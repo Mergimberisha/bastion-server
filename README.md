@@ -32,6 +32,6 @@
 
 12. Go back to your bastion instance, then click on security groups and check the inbound rules. It should have the type SSH and source My IP (Shouls automatically give you the IP)
 
-13. Change the permissions. sudo chmod 400 (your pem key)
+13. Change the permissions. sudo chmod 400{your .pem key}
 
 14. You should now be connected.
